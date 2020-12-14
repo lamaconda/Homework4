@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abbaec2f-f855-4ee4-a42b-a3e94e38cafd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionsapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/lamaconda/positive_or_negative/PositiveOrNegativeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/lamaconda/positive_or_negative/PositiveOrNegativeNumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_3/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_3/src/main/java/DaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_3/src/main/java/DaysOfWeekDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_3/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_3/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_4/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_4/src/main/java/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_4/src/main/java/EvenOrOddDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_4/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_4/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_5/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_5/src/main/java/OneOfTwoBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_5/src/main/java/OneOfTwoBiggerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_5/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_5/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_6/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_6/src/main/java/OneOfTwoLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_6/src/main/java/OneOfTwoLowerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_6/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_6/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_7/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_7/src/main/java/by/lamaconda/equal_or_different/EqualOrDifferent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_7/src/main/java/by/lamaconda/equal_or_different/EqualOrDifferentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_7/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_2/task_7/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_10/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_10/src/main/java/BiggestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_10/src/main/java/BiggestOfThreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_10/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_10/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_8/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_8/src/main/java/ThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_8/src/main/java/ThreeNumbersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_8/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_8/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_9/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_9/src/main/java/IncreaseOrDecrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_9/src/main/java/IncreaseOrDecreaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_9/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_3/task_9/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/src/main/java/CalculatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/src/main/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_4/task11_12_13_14_15/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_5/task_16/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_5/task_16/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_5/task_16/src/main/java/LightColorDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_5/task_16/src/main/java/LightColorDetectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_5/task_16/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_5/task_16/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/StockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/src/main/java/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/src/main/java/StockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_6/task_17/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_22/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_22/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_22/src/main/java/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_22/src/main/java/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_22/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_22/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/collectionsapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/src/main/java/by/lamaconda/leapeyear/LeapYearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/src/main/java/by/lamaconda/leapeyear/bean/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/target/classes/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/target/classes/by/lamaconda/leapeyear/LeapYearTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../level_7/task_23/target/classes/by/lamaconda/leapeyear/bean/LeapYear.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ldZPkKacEdh5eIR2BVvNuop3hA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task_3/pom.xml" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abbaec2f-f855-4ee4-a42b-a3e94e38cafd" name="Default Changelist" comment="" />
+      <created>1607928906846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607928906846</updated>
+      <workItem from="1607928907997" duration="21000" />
+      <workItem from="1607947086749" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
